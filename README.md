@@ -5,7 +5,7 @@ Just a list of web utilitis for me
 ### [Rasp Connect](https://connect.raspberrypi.com/sign-in)
 ### [News](https://meinungsmache.de/)
 ### [Podcast](https://www.podcast.de/)
-### [Wiki](https://www.wikipedia.de/)
+### [Wiki](https://www.wikipedia.org/)
 ### [Link Shortener](https://ha.mr/)
 ### [File Converter](https://p2r3.github.io/convert/)
 ### [QR Generator](https://zingl.github.io/index.html)
