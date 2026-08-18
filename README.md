@@ -2,6 +2,8 @@
 Just a list of web utilitis for me
 ### [Messenger](https://chat.beeper.com/)
 ### [Mail](https://account.proton.me/mail)
+### [Weather](https://openweathermap.org/city)
+### [Maps](https://www.openstreetmap.org)
 ### [Rasp Connect](https://connect.raspberrypi.com/sign-in)
 ### [News](https://meinungsmache.de/)
 ### [Podcast](https://www.podcast.de/)
