@@ -1,5 +1,6 @@
 ## util
 Just a list of web utilitis for me
+### [Search](https://lite.duckduckgo.com/lite/)
 ### [Messenger](https://chat.beeper.com/)
 ### [Mail](https://account.proton.me/mail)
 ### [Weather](https://openweathermap.org/city)
